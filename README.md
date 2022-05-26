@@ -12,3 +12,6 @@ Neste projeto, foi desenvolvido uma página de formulário da Escola de Magia de
 O projeto foi realizado em grupo, minha equipe foi composta por:
 
 https://github.com/marcioecom
+
+
+Live app: https://melobrunoti.github.io/TrybeWarts/
